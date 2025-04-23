@@ -359,6 +359,10 @@ html {
   }
   
 }
+.highlight {
+  color: #d34ce0; 
+  white-space: nowrap;
+}
 
 
 
