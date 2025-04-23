@@ -39,7 +39,7 @@ body{
   display: none;
 }
 .logo{
-  font-size: 3rem;
+  font-size: 3git rem;
   color: var(--text-color);
   font-weight: 800;
   cursor: pointer;
