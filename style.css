@@ -359,9 +359,14 @@ html {
   }
   
 }
-.highlight {
-  color: #d34ce0; 
-  white-space: nowrap;
+h1 {
+  display: inline-block;
+  font-size: 3.5rem;
+}
+
+h1 span {
+  color: var(--highlight-color); /* ou a cor roxa que você estiver usando */
+  margin-left: 0.5rem;
 }
 
 
