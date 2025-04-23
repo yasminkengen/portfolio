@@ -106,14 +106,14 @@ section{
   text-align: right;
 }
 .home-content h1 {
-  font-size: 6rem;
+  font-size: 4rem;
   font-weight: 700;
   margin-top: 1.5rem;
   line-height: 1;
 }
 .home-content h3{
   margin: 1rem 0;
-  font-size: 4rem;
+  font-size: 2rem;
 }
 .home-content p{
   font-size: 1.5rem;
@@ -358,15 +358,6 @@ html {
     width: 52vw;
   }
   
-}
-h1 {
-  display: inline-block;
-  font-size: 3.5rem;
-}
-
-h1 span {
-  color: var(--highlight-color); /* ou a cor roxa que você estiver usando */
-  margin-left: 0.5rem;
 }
 
 
