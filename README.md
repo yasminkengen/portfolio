@@ -30,20 +30,6 @@ O visual foi projetado para transmitir **elegância, organização, confiança, 
 
 ---
 
-## 💻 Como Rodar o Projeto Localmente
-
-1. Clone este repositório para o seu ambiente local:
-   ```bash
-   git clone https://github.com/yasminkengen/portfolio.git
-   ```
-2. Acesse a pasta do projeto:
-   ```bash
-   cd portfolio
-   ```
-3. Abra o arquivo `index.html` diretamente no seu navegador de preferência ou execute utilizando extensões de servidor local (como *Live Server* do VS Code).
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 *   **HTML5**
