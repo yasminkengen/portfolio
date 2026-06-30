@@ -30,27 +30,6 @@ O visual foi projetado para transmitir **elegância, organização, confiança, 
 
 ---
 
-## 📁 Estrutura de Arquivos
-
-```text
-momo/
-├── index.html          # Estrutura principal da página
-├── README.md           # Documentação do projeto
-├── css/
-│   └── style.css       # Estilização completa, variáveis e responsividade
-├── js/
-│   └── main.js         # Lógica de tradução, navegação mobile e efeitos
-├── locales/
-│   ├── pt.js           # Dicionário de termos em Português
-│   ├── en.js           # Dicionário de termos em Inglês
-│   └── es.js           # Dicionário de termos em Espanhol
-└── public/
-    ├── momo.jpeg       # Imagem do parceiro de tecnologia
-    └── favicon.png     # Ícone do portfólio
-```
-
----
-
 ## 💻 Como Rodar o Projeto Localmente
 
 1. Clone este repositório para o seu ambiente local:
